@@ -1,0 +1,39 @@
+{% extends 'main/base.html' %}
+
+{% block title %}{{ title }}{% endblock title %}
+
+{% block section %}
+{% endblock section %}
+
+{% block content %}
+
+<div class="container px-4 py-5" id="hanging-icons">
+  <h2 class="pb-2 border-bottom">Выбор рассылок</h2>
+  <div class="row g-3 py-5 row-cols-1 row-cols-lg-3">
+    <div class="col d-flex align-items-start">
+      <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
+      </div>
+      <div>
+        <h2>Индивидуальная</h2>
+        <p>Только баннеры и ничего больше, возможно текст)</p>
+        <a href="{% url 'main:createbanner' %}" class="btn btn-primary">
+          Выбрать афиши
+        </a>
+      </div>
+    </div>
+    <div class="col d-flex align-items-start">
+      <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
+      </div>
+      <div>
+        <h2>Техническая</h2>
+        <p>Только текст только хардкор</p>
+        <a href="{% url 'main:createtransfer' %}" class="btn btn-primary">
+          Что переносится?
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endblock content %}
+

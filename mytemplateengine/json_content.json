@@ -1,0 +1,26 @@
+{
+    "content": [
+        {
+            "banner_date": {
+                "banner_url": "https://kurgan.kassy.ru/events/detskie/2-1246/"
+            },
+            "banner_title_content": {
+                "title_poster": "524523453",
+                "is_newsite": false,
+                "date_poster": "543453",
+                "content": "5434534",
+                "labels": "__2-1246",
+                "number_phone_liks": "tel:+73522333800",
+                "number_phone": "333 800"
+            },
+            "banner_content": {
+                "name_event": "\u0446\u0430\u0440\u0435\u0432\u043d\u044b \u043f\u0440\u043e\u0442\u0438\u0432 \u0431\u0430\u0431\u044b \u044f\u0433\u0438",
+                "rate": "0+",
+                "date_event": "\u0414\u0432\u043e\u0440\u0435\u0446",
+                "time_event": "4453453453",
+                "venue": "\u0414\u0432\u043e\u0440\u0435\u0446 \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u044b \u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u0438\u043a\u043e\u0432",
+                "price": "150  200"
+            }
+        }
+    ]
+}

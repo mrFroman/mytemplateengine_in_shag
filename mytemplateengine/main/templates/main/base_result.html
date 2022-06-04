@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title_poster }}</title>
+
+    <style type="text/css">
+        body { Margin: 0; padding: 0; min-width: 100%; background-color: #ffffff; }
+        a { text-decoration-color: #181818; text-decoration: none;     }
+        td { padding: 0; }
+        img { border: 0; }
+        .wrapper { width: 100%; table-layout: fixed; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+        .webkit { max-width: 600px; }
+
+        /* Windows Phone Viewport Fix */
+        @-ms-viewport {
+            width: device-width;
+        }
+        @media screen and (min-width: 520px) {
+            .two-column .column { max-width: 50% !important; }
+            .four-column .column { max-width: 25% !important; }
+            .three-column .column { max-width: 33% !important; }
+        }
+        @media screen and (min-width: 450px) and (max-width: 519px) {
+            .two-column .column { max-width: 50% !important; }
+            .three-column .column { max-width: 100% !important; }
+            .four-column .column { max-width: 25% !important; }
+        }
+        @media screen and (max-width: 449px) {
+            .two-column .column { max-width: 110px !important; }
+            .three-column .column { max-width: 100% !important; }
+            .four-column .column { max-width: 25% !important; }
+        }
+        @media screen and (max-width: 350px) {
+            .four-column .column { max-width: 50% !important; }
+        }
+    </style>
+    <!--[if (gte mso 9)|(IE)]>
+    <style type="text/css">
+        table { border-collapse: collapse !important; }
+    </style>
+    <![endif]-->
+</head>
+<body align="center" style="margin:0; padding:0; min-width:100%; background: #f7f7f7; font-family: Helvetica, Geneva, sans-serif;">
+    <div style="background: #f7f7f7;">
+        <div style="margin: 0 auto; max-width:600px; background: #fff; padding-bottom: 20px;">
+
+<!-------------------HEADER---------------------->
+<div style="padding: 20px 20px 0">
+    <div
+        style="color: #919191; font-size: 12px; line-height: 14px; letter-spacing: 0.4px; text-align: center;">
+        Если письмо отображается некорректно, то <a
+            href="https://cdn.kassy.ru/mailing/{{ date_poster }}/?subdivision={{subdivision}}&dispatch_id={{dispatch_id}}&email={{email}}&token={{token}}&user_id={{user_id}}&utm_source=cdn&utm_medium=email&utm_campaign=email_delivery_{{ date_poster }}&utm_content=direct&utm_term=link_cdn{{ labels }}"
+            target="_blank"
+            style="text-decoration: underline; color: #919191; letter-spacing: 0.4px;">смотрите здесь</a>
+    </div> <a
+        href="https://{{subdivision}}.kassy.ru/?utm_source=cdn&utm_medium=email&utm_campaign=email_delivery_{{ date_poster }}&utm_content=direct&utm_term=link_kassy_main{{ labels }}"
+        target="_blank"
+        style="display: block; font-size: 0; background: #ae5dea url('img/rassylka_fon.jpg'); text-align: center; padding: 11px 0; margin-top: 20px;">
+        <img src="https://cdn.kassy.ru/mailing/{{ date_poster }}/img/rassylka.png"></a> </a>
+    <div
+        style="text-align: center; font-size: 17px; line-height: 20px; font-family: Helvetica, Geneva; padding: 7px 0 8px; margin: 0 0 30px; background: #a349e8; ">
+        <table style="font-family: Helvetica, Geneva, sans-serif; border-collapse: collapse; width: 60%;"
+            align="center">
+            <tr>
+                <td style="padding: 0 10px;"> <a
+                        href="https://{{subdivision}}.kassy.ru/events/koncerty-i-shou/?utm_source=cdn&utm_medium=email&utm_campaign=email_delivery_{{ date_poster }}&utm_content=direct&utm_term=link_nav_koncerty_i_shou{{ labels }}"
+                        target="_blank" style="color: #fff; text-decoration: none;">Концерты</span></a>
+                </td>
+                <td style="padding: 0 10px;"> <a
+                        href="https://{{subdivision}}.kassy.ru/events/teatr/?utm_source=cdn&utm_medium=email&utm_campaign=email_delivery_{{ date_poster }}&utm_content=direct&utm_term=link_nav_teatr{{ labels }}"
+                        target="_blank" style="color: #fff; text-decoration: none;">Театр</a> </td>
+                <td style="padding: 0 10px;"> <a
+                        href="https://{{subdivision}}.kassy.ru/events/cirk/?utm_source=cdn&utm_medium=email&utm_campaign=email_delivery_{{ date_poster }}&utm_content=direct&utm_term=link_nav_cirk{{ labels }}"
+                        target="_blank" style="color: #fff; text-decoration: none;">Цирк</a> </td>
+                <td style="padding: 0 10px;"> <a
+                        href="https://{{subdivision}}.kassy.ru/events/kino/?utm_source=cdn&utm_medium=email&utm_campaign=email_delivery_{{ date_poster }}&utm_content=direct&utm_term=link_nav_kino{{ labels }}"
+                        target="_blank" style="color: #fff;text-decoration: none;">Кино</a> </td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+
+{% block content %}{% endblock content %}
+
+<!-------------------FOOTER---------------------->
+            <div style="background: #a349e8 url('img/bg.jpg'); padding: 16px 16px; margin: 40px 20px 0;">
+                <table width="100%" style="border-collapse: collapse; font-family: Helvetica, Geneva, sans-serif; color: #fff; font-size: 16px; line-height: 22px;">
+                    <tr>
+                        <td colspan="2" valign="top">
+                            <table style="border-collapse: collapse; width: 100%;">
+                                <tr>
+                                    <td style="min-width: 200px;" valign="top" align="left">
+                                        <img src="https://cdn.kassy.ru/mailing/{{ date_poster }}/img/rassylka.png" style="width: 175px;">
+                                    </td>
+                                    <td align="right" valign="top">
+                                        <a href="https://www.tiktok.com/@kassy.ru?" target="_blank" style="text-decoration:none; display: inline-block; vertical-align: top; margin: 0 0 10px 10px;">
+                                            <img src="https://cdn.kassy.ru/mailing/{{ date_poster }}/img/tik_tok.png" width="50"  alt="TikTok" title="TikTok" style="border-width:0;">
+                                        </a>
+                                        <a href="https://t.me/newskassyru" target="_blank" style="text-decoration:none; display: inline-block; vertical-align: top; margin: 0 0 10px 10px;">
+                                            <img src="https://cdn.kassy.ru/mailing/{{ date_poster }}/img/telegram.png" width="50"  alt="telegram" title="telegram" style="border-width:0;">
+                                        </a>
+                                    </td>
+                                </tr>
+                            </table>
+
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td valign="bottom" align="left" style="padding: 0; height: 115px;">
+                            <a href="mailto:service@kassy.ru?subject=Message from mailing kassy.ru" style="color: #fff; text-decoration: none;" target="_blank">Обратная связь</a>
+                        </td>
+                        <td align="right" valign="bottom" style="padding: 0;">
+                            <a href="{{ number_phone_liks }}" style="text-decoration:none; color: #fff;"><b style="font-size: 25px; font-family: Tahoma, sans-serif; line-height: 29px;">{{ number_phone }}</b><br>Справочная служба</a>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div>
+                <table width="100%" style="border-collapse: collapse; font-family: Helvetica, Geneva, sans-serif; color: #fff; font-size: 10px; line-height: 10px;">
+                    <tr>
+                        <td align="center" valign="top" style="padding:10px 0px 10px 0px; font-family: Tahoma, Geneva, sans-serif; color:#919191; width:60%; font-size:10px; line-height: 18px;">
+                            <span style="font-family:  Tahoma, Geneva, sans-serif; color:#919191; font-size: 10px; line-height: 14px;"> Вы получили это сообщение, т.к. являетесь зарегистрированным пользователем сайта {{subdivision}}.kassy.ru и согласились получать информационные письма kassy.ru. Если вы не хотите получать рассылку, перейдите по ссылке
+                                <a style="color: #919191; text-decoration: revert;" href="https://{{subdivision}}.kassy.ru/dispatch/unsubscribe/?dispatch_id={{dispatch_id}}&email={{email}}&token={{token}}&user_id={{user_id}}&utm_source=cdn&utm_medium=email&utm_campaign=email_delivery_{{ date_poster }}&utm_content=direct&utm_term=link_unsubscribe" target="_blank">
+                                    отписаться.<span style="white-space:nowrap"></span>
+                                </a>
+                            </span>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <img style="height: 1px; width: 1px;" src="https://{{subdivision}}.kassy.ru/dispatch/view_{{dispatch_id}}.png?email={{email}}&token={{token}}" alt="">
+</body>
+
+</html>

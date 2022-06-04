@@ -1,0 +1,19 @@
+{% extends 'main/base_result.html' %}
+<!-- организовать цикл -->
+{% block content %}
+
+    <div style="padding: 20px 20px 0;">
+        <a href="{{ banner_url }}?utm_source=cdn&utm_medium=email&utm_campaign=email_delivery_{{ date_poster }}&utm_content=direct&utm_term=banner_koncerty-i-shou{{ labels }}" target="_blank">
+        <img src="https://cdn.kassy.ru/mailing/{{ date_poster }}/img/1.jpg" title="Специальное предложение — {{ name_event }}" alt="Специальное предложение — {{ name_event }}" style="border: none; padding: 0; width: 100%; height: auto; border-radius: 8px; box-shadow: 0 1px 6px #ccc; ">
+        </a>
+
+    <div style="margin-top: 15px; font-size: 14px; color: #292929; line-height: 19px; text-align: center; padding: 0 10px;">
+        <b><p>{{ content }}</p></b>
+        <div style="font-family:  Helvetica, Geneva, sans-serif; font-size: 15px; color: #000; line-height: 23px;"><b>{{ date_event }} в&nbsp;{{ time_event }}&nbsp;{{ venue }}</b></div>
+
+            <a href="{{ banner_url }}?utm_source=cdn&utm_medium=email&utm_campaign=email_delivery_{{ date_poster }}&utm_content=direct&utm_term=banner_koncerty-i-shou{{ labels }}" target="_blank" style="margin: 20px auto 0; display: inline-block; background: #ae5dea; color: #fff; border-radius: 50px; padding: 13px 35px 14px; font-size: 18px; line-height: 15px;">Выбрать место</a>
+        </div>
+    </div>
+
+{% endblock %}
+

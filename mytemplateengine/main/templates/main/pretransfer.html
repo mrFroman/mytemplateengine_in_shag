@@ -1,0 +1,36 @@
+{% extends 'main/base.html' %}
+
+{% block title %}{{ title }}{% endblock title %}
+
+{% block section %}
+<div class ="container px-4 py-5" id="featured-3">
+    <h2 class="fpb-2 border-bottom">Редактируем рассылку</h2>
+</div>
+{% endblock section %}
+
+{% block content %}
+<div class="album py-5 bg-light">
+    <div class="container d-flex flex-column align-items-left justify-content-center">
+        <form action="" class="d-flex flex-column mb-3" enctype="multipart/form-data" method="post">
+            {% csrf_token %}
+            {{form.errors}}
+            {{ form.non_field_errors }}
+                {% for f in form %}
+                <p><label class="form-label" for="{{ f.id_for_label }}">{{f.label}}: </label>{{ f }}</p>
+                <div class="form-error">{{ f.errors }}</div>
+                {% endfor %}
+                {{ form2.as_p }}
+                {{ form2.errors }}
+            <input type="checkbox" name="update_type" value="download">хочу скачать</input></br>
+            <button class="btn btn-primary justify-content-center">Собрать</button>
+
+        </form>
+    </div>
+</div>
+
+<form action="" method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+
+</form>
+
+{% endblock %}

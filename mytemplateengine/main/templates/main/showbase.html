@@ -1,0 +1,25 @@
+{% extends 'main/base.html' %}
+
+{% block title %}{{ title }}{% endblock title %}
+
+{% block section %}
+<div class ="container px-4 py-5" id="featured-3">
+    <h2 class="fpb-2 border-bottom">Выбрать базу клиентов</h2>
+</div>
+{% endblock section %}
+
+{% block content %}
+<div class="album py-5 bg-light">
+    <div class="container d-flex flex-column align-items-center justify-content-center">
+        <form action="" class="d-flex flex-column mb-3 " enctype="multipart/form-data" method="post">
+            {% csrf_token %}
+            <div class="form-check form-switch justify-content-top">
+                {% for f in form %}
+                    <label class="{{f.label}}" for="flexSwitchCheckDefault">{{f.label}}: {{ f }}</label>
+                {% endfor %}
+            </div>
+            <button class="btn btn-primary" type="submit">Передать данные</button>
+        </form>
+    </div>
+</div>
+{% endblock content %}

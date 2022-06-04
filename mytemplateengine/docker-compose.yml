@@ -1,0 +1,39 @@
+version: "3"
+
+services:
+  web:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    volumes:
+      - ./:/django_app
+    ports:
+      - "8000:8000"
+    depends_on:
+      - mysql
+
+  mysql:
+    image: mysql:8.0
+    build:
+      context: ./docker/mysql
+      dockerfile: Dockerfile
+    environment:
+      - MYSQL_ROOT_PASSWORD='12345'
+    restart: unless-stopped
+    volumes:
+      - ./docker/mysql/:/var/lib/mysql
+    ports:
+      - "3306:3306"
+
+  nginx:
+    build:
+      context: ./docker/nginx
+      dockerfile: Dockerfile
+    ports:
+      - "80:80"
+    depends_on:
+      - mysql
+      - web
+    volumes:
+      - ./static/:/static
+      - ./media/:/media

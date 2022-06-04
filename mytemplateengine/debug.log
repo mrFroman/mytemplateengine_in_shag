@@ -1,0 +1,507 @@
+2022-06-02 18:45:47,520 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-02 18:46:35,368 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\views.py changed, reloading.
+2022-06-02 18:46:36,157 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-02 18:52:43,251 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\mytemplateengine\settings.py changed, reloading.
+2022-06-02 18:52:43,703 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-02 18:53:21,406 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\mytemplateengine\settings.py changed, reloading.
+2022-06-02 18:53:22,507 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-02 18:54:17,470 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\mytemplateengine\settings.py changed, reloading.
+2022-06-02 18:54:17,880 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-02 18:56:15,931 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\mytemplateengine\settings.py changed, reloading.
+2022-06-02 18:56:16,351 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-02 18:57:31,368 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\mytemplateengine\settings.py changed, reloading.
+2022-06-02 18:57:31,814 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-02 19:05:18,712 django.request WARNING  Not Found: /createbanner/6565651
+2022-06-02 19:37:17,863 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\views.py changed, reloading.
+2022-06-02 19:37:18,357 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-02 19:37:35,227 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\views.py changed, reloading.
+2022-06-02 19:37:35,659 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-02 19:37:56,554 django.request WARNING  Not Found: /accounts/login/
+2022-06-02 19:38:05,555 django.request WARNING  Not Found: /accounts/login/
+2022-06-02 19:41:00,965 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\views.py changed, reloading.
+2022-06-02 19:41:01,387 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-02 20:24:22,250 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\views.py changed, reloading.
+2022-06-02 20:24:22,794 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-02 20:24:31,170 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\views.py changed, reloading.
+2022-06-02 20:24:31,647 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-02 20:24:41,068 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\views.py changed, reloading.
+2022-06-02 20:24:41,625 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-02 20:27:16,593 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-02 20:27:41,659 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\urls.py changed, reloading.
+2022-06-02 20:27:42,072 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-02 20:27:43,283 django.security.DisallowedHost ERROR    Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+2022-06-02 20:27:43,320 django.request WARNING  Bad Request: /
+2022-06-02 20:28:09,252 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\urls.py changed, reloading.
+2022-06-02 20:28:09,707 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-02 20:28:10,133 django.security.DisallowedHost ERROR    Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+2022-06-02 20:28:10,149 django.request WARNING  Bad Request: /
+2022-06-02 20:28:18,964 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-02 20:28:20,156 django.security.DisallowedHost ERROR    Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+2022-06-02 20:28:20,180 django.request WARNING  Bad Request: /
+2022-06-02 20:28:41,022 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\mytemplateengine\settings.py changed, reloading.
+2022-06-02 20:28:41,448 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-02 20:28:42,343 django.security.DisallowedHost ERROR    Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+2022-06-02 20:28:42,373 django.request WARNING  Bad Request: /
+2022-06-02 20:28:45,771 django.security.DisallowedHost ERROR    Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+2022-06-02 20:28:45,781 django.request WARNING  Bad Request: /
+2022-06-02 20:28:45,831 django.security.DisallowedHost ERROR    Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+2022-06-02 20:28:45,840 django.request WARNING  Bad Request: /favicon.ico
+2022-06-02 20:28:46,530 django.security.DisallowedHost ERROR    Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+2022-06-02 20:28:46,539 django.request WARNING  Bad Request: /
+2022-06-02 20:28:46,577 django.security.DisallowedHost ERROR    Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+2022-06-02 20:28:46,586 django.request WARNING  Bad Request: /favicon.ico
+2022-06-02 20:28:56,287 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\views.py changed, reloading.
+2022-06-02 20:28:56,702 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-02 20:28:58,667 django.security.DisallowedHost ERROR    Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+2022-06-02 20:28:58,687 django.request WARNING  Bad Request: /
+2022-06-02 20:28:58,760 django.security.DisallowedHost ERROR    Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+2022-06-02 20:28:58,767 django.request WARNING  Bad Request: /favicon.ico
+2022-06-02 20:28:59,369 django.security.DisallowedHost ERROR    Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+2022-06-02 20:28:59,378 django.request WARNING  Bad Request: /
+2022-06-02 20:28:59,428 django.security.DisallowedHost ERROR    Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+2022-06-02 20:28:59,435 django.request WARNING  Bad Request: /favicon.ico
+2022-06-02 20:29:00,320 django.security.DisallowedHost ERROR    Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+2022-06-02 20:29:00,330 django.request WARNING  Bad Request: /
+2022-06-02 20:29:00,371 django.security.DisallowedHost ERROR    Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+2022-06-02 20:29:00,381 django.request WARNING  Bad Request: /favicon.ico
+2022-06-02 20:29:36,472 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\mytemplateengine\settings.py changed, reloading.
+2022-06-02 20:29:36,986 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-02 20:29:41,858 django.security.DisallowedHost ERROR    Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+2022-06-02 20:29:41,907 django.request WARNING  Bad Request: /
+2022-06-02 20:29:42,177 django.security.DisallowedHost ERROR    Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+2022-06-02 20:29:42,202 django.request WARNING  Bad Request: /favicon.ico
+2022-06-02 20:29:57,091 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\mytemplateengine\settings.py changed, reloading.
+2022-06-02 20:29:57,542 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-02 20:29:58,061 django.request WARNING  Not Found: /favicon.ico
+2022-06-03 11:26:13,925 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 11:26:18,393 django.request WARNING  Not Found: /favicon.ico
+2022-06-03 11:30:51,610 django.request ERROR    Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\mrfro\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\defaulttags.py", line 1027, in find_library
+    return parser.libraries[name]
+KeyError: 'staticfiles'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\mrfro\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\mrfro\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\mrfro\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\mrfro\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+  File "C:\Users\mrfro\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\backends\django.py", line 62, in render
+    return self.template.render(context)
+  File "C:\Users\mrfro\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\mrfro\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\mrfro\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\mrfro\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\mrfro\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 958, in render_annotated
+    return self.render(context)
+  File "C:\Users\mrfro\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+  File "C:\Users\mrfro\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+  File "C:\Users\mrfro\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+  File "C:\Users\mrfro\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\mrfro\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\mrfro\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\mrfro\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\mrfro\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\mrfro\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\mrfro\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\defaulttags.py", line 1089, in load
+    lib = find_library(parser, name)
+  File "C:\Users\mrfro\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\defaulttags.py", line 1029, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'staticfiles' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+2022-06-03 11:31:42,118 django.request WARNING  Not Found: /favicon.ico
+2022-06-03 11:49:26,135 django.request WARNING  Not Found: /favicon.ico
+2022-06-03 13:29:30,014 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 13:29:31,025 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 13:29:37,775 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 13:29:38,179 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 14:03:42,464 django.request WARNING  Not Found: /createtransfer/555
+2022-06-03 15:41:08,341 django.request WARNING  Not Found: /favicon.ico
+2022-06-03 15:42:24,254 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:42:24,774 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:42:26,993 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:42:27,389 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:42:28,560 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:42:28,927 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:42:33,157 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:42:33,535 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:42:34,740 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:42:35,114 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:42:38,328 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:42:38,712 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:42:42,909 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:42:43,371 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:42:45,572 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:42:45,968 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:42:47,126 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:42:47,499 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:42:58,866 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:42:59,232 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:43:04,477 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:43:04,846 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:43:08,065 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:43:08,479 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:43:18,867 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:43:19,252 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:43:40,884 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:43:41,291 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:44:02,768 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:44:07,184 django.request WARNING  Not Found: /favicon.ico
+2022-06-03 15:44:20,930 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:44:21,323 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:44:28,948 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:44:29,366 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:44:37,948 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:44:38,332 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:44:44,869 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:44:45,258 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:44:47,692 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:44:48,142 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:44:50,548 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:44:50,919 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:44:56,417 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:44:56,801 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:45:00,292 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:45:00,732 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:45:03,170 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:45:03,622 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:45:08,152 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:45:08,563 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:45:14,070 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:45:14,535 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:45:18,077 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:45:18,523 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:45:19,942 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:45:20,356 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:45:25,897 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:45:26,283 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:45:31,784 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:45:32,218 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:45:34,694 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:45:35,084 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:45:39,549 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:45:39,934 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:45:41,364 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:45:41,792 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:45:51,452 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:45:51,828 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:45:55,042 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:45:55,431 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:45:58,640 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:45:59,049 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:46:07,602 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:46:07,975 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:46:14,532 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:46:14,943 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:46:19,420 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:46:19,823 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:46:36,548 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:46:36,998 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:46:42,567 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:46:42,959 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:46:52,609 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:46:52,999 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:47:01,626 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:47:02,029 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:47:10,635 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:47:10,997 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:47:13,436 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:47:13,857 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:47:21,435 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:47:21,846 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:47:32,480 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:47:32,864 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:47:37,346 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:47:37,810 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:47:39,245 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:47:39,627 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:47:51,287 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:47:51,708 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:47:53,109 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:47:53,491 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:47:54,892 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:47:55,272 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:48:04,862 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\form.py changed, reloading.
+2022-06-03 15:48:05,259 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 15:55:27,879 django.request WARNING  Not Found: /favicon.ico
+2022-06-03 15:56:40,508 django.request WARNING  Not Found: /favicon.ico
+2022-06-03 15:56:53,158 django.request WARNING  Not Found: /favicon.ico
+2022-06-03 15:57:31,812 django.request WARNING  Not Found: /favicon.ico
+2022-06-03 15:58:27,974 django.request WARNING  Not Found: /favicon.ico
+2022-06-03 17:44:28,527 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\models.py changed, reloading.
+2022-06-03 17:44:29,044 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 17:44:31,523 django.utils.autoreload INFO     C:\Users\mrfro\Desktop\mytemplateengine_in_shag\mytemplateengine\main\models.py changed, reloading.
+2022-06-03 17:44:32,008 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 17:45:15,382 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-03 17:46:49,234 django.request WARNING  Not Found: /createtransfer/img/bg.jpg
+2022-06-03 17:46:49,239 django.request WARNING  Not Found: /createtransfer/img/rassylka_fon.jpg
+2022-06-05 00:33:51,441 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-05 00:33:53,440 django.request WARNING  Not Found: /favicon.ico
+2022-06-04 23:14:54,932 django.request WARNING  Not Found: /static/main/css/bootstrap.min.css
+2022-06-04 23:14:54,935 django.request WARNING  Not Found: /static/main/css/normalize.css
+2022-06-04 23:14:55,054 django.request WARNING  Not Found: /favicon.ico
+2022-06-04 23:15:29,078 django.request WARNING  Not Found: /static/main/css/bootstrap.min.css
+2022-06-04 23:15:29,082 django.request WARNING  Not Found: /static/main/css/normalize.css
+2022-06-04 23:15:39,773 django.request ERROR    Internal Server Error: /login
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/pymysql/connections.py", line 613, in connect
+    sock = socket.create_connection(
+  File "/usr/local/lib/python3.10/socket.py", line 845, in create_connection
+    raise err
+  File "/usr/local/lib/python3.10/socket.py", line 833, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/base/base.py", line 244, in ensure_connection
+    self.connect()
+  File "/usr/local/lib/python3.10/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/base/base.py", line 225, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/usr/local/lib/python3.10/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/mysql/base.py", line 244, in get_new_connection
+    connection = Database.connect(**conn_params)
+  File "/usr/local/lib/python3.10/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/usr/local/lib/python3.10/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '127.0.0.1' ([Errno 111] Connection refused)")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/debug.py", line 92, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/utils/decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/contrib/auth/views.py", line 67, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/edit.py", line 152, in post
+    if form.is_valid():
+  File "/usr/local/lib/python3.10/site-packages/django/forms/forms.py", line 205, in is_valid
+    return self.is_bound and not self.errors
+  File "/usr/local/lib/python3.10/site-packages/django/forms/forms.py", line 200, in errors
+    self.full_clean()
+  File "/usr/local/lib/python3.10/site-packages/django/forms/forms.py", line 434, in full_clean
+    self._clean_form()
+  File "/usr/local/lib/python3.10/site-packages/django/forms/forms.py", line 455, in _clean_form
+    cleaned_data = self.clean()
+  File "/usr/local/lib/python3.10/site-packages/django/contrib/auth/forms.py", line 217, in clean
+    self.user_cache = authenticate(
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/debug.py", line 42, in sensitive_variables_wrapper
+    return func(*func_args, **func_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/contrib/auth/__init__.py", line 77, in authenticate
+    user = backend.authenticate(request, **credentials)
+  File "/usr/local/lib/python3.10/site-packages/django/contrib/auth/backends.py", line 42, in authenticate
+    user = UserModel._default_manager.get_by_natural_key(username)
+  File "/usr/local/lib/python3.10/site-packages/django/contrib/auth/base_user.py", line 46, in get_by_natural_key
+    return self.get(**{self.model.USERNAME_FIELD: username})
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 492, in get
+    num = len(clone)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 302, in __len__
+    self._fetch_all()
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 1507, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 57, in __iter__
+    results = compiler.execute_sql(
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1359, in execute_sql
+    cursor = self.connection.cursor()
+  File "/usr/local/lib/python3.10/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/base/base.py", line 284, in cursor
+    return self._cursor()
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/base/base.py", line 260, in _cursor
+    self.ensure_connection()
+  File "/usr/local/lib/python3.10/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/base/base.py", line 243, in ensure_connection
+    with self.wrap_database_errors:
+  File "/usr/local/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/base/base.py", line 244, in ensure_connection
+    self.connect()
+  File "/usr/local/lib/python3.10/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/base/base.py", line 225, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/usr/local/lib/python3.10/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/mysql/base.py", line 244, in get_new_connection
+    connection = Database.connect(**conn_params)
+  File "/usr/local/lib/python3.10/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/usr/local/lib/python3.10/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+django.db.utils.OperationalError: (2003, "Can't connect to MySQL server on '127.0.0.1' ([Errno 111] Connection refused)")
+2022-06-04 23:15:50,566 django.request WARNING  Not Found: /static/main/css/bootstrap.min.css
+2022-06-04 23:15:50,569 django.request WARNING  Not Found: /static/main/css/normalize.css
+2022-06-04 23:15:52,127 django.request WARNING  Not Found: /static/main/css/bootstrap.min.css
+2022-06-04 23:15:52,155 django.request WARNING  Not Found: /static/main/css/normalize.css
+2022-06-04 23:15:53,401 django.request WARNING  Not Found: /static/main/css/bootstrap.min.css
+2022-06-04 23:15:53,429 django.request WARNING  Not Found: /static/main/css/normalize.css
+2022-06-04 23:20:59,132 django.request WARNING  Not Found: /static/main/css/bootstrap.min.css
+2022-06-04 23:20:59,136 django.request WARNING  Not Found: /static/main/css/normalize.css
+2022-06-04 23:21:05,051 django.request WARNING  Not Found: /static/main/css/bootstrap.min.css
+2022-06-04 23:21:05,076 django.request WARNING  Not Found: /static/main/css/normalize.css
+2022-06-04 23:21:18,861 django.request ERROR    Internal Server Error: /login
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/pymysql/connections.py", line 613, in connect
+    sock = socket.create_connection(
+  File "/usr/local/lib/python3.10/socket.py", line 845, in create_connection
+    raise err
+  File "/usr/local/lib/python3.10/socket.py", line 833, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/base/base.py", line 244, in ensure_connection
+    self.connect()
+  File "/usr/local/lib/python3.10/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/base/base.py", line 225, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/usr/local/lib/python3.10/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/mysql/base.py", line 244, in get_new_connection
+    connection = Database.connect(**conn_params)
+  File "/usr/local/lib/python3.10/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/usr/local/lib/python3.10/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '127.0.0.1' ([Errno 111] Connection refused)")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/debug.py", line 92, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/utils/decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/contrib/auth/views.py", line 67, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/edit.py", line 152, in post
+    if form.is_valid():
+  File "/usr/local/lib/python3.10/site-packages/django/forms/forms.py", line 205, in is_valid
+    return self.is_bound and not self.errors
+  File "/usr/local/lib/python3.10/site-packages/django/forms/forms.py", line 200, in errors
+    self.full_clean()
+  File "/usr/local/lib/python3.10/site-packages/django/forms/forms.py", line 434, in full_clean
+    self._clean_form()
+  File "/usr/local/lib/python3.10/site-packages/django/forms/forms.py", line 455, in _clean_form
+    cleaned_data = self.clean()
+  File "/usr/local/lib/python3.10/site-packages/django/contrib/auth/forms.py", line 217, in clean
+    self.user_cache = authenticate(
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/debug.py", line 42, in sensitive_variables_wrapper
+    return func(*func_args, **func_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/contrib/auth/__init__.py", line 77, in authenticate
+    user = backend.authenticate(request, **credentials)
+  File "/usr/local/lib/python3.10/site-packages/django/contrib/auth/backends.py", line 42, in authenticate
+    user = UserModel._default_manager.get_by_natural_key(username)
+  File "/usr/local/lib/python3.10/site-packages/django/contrib/auth/base_user.py", line 46, in get_by_natural_key
+    return self.get(**{self.model.USERNAME_FIELD: username})
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 492, in get
+    num = len(clone)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 302, in __len__
+    self._fetch_all()
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 1507, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 57, in __iter__
+    results = compiler.execute_sql(
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1359, in execute_sql
+    cursor = self.connection.cursor()
+  File "/usr/local/lib/python3.10/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/base/base.py", line 284, in cursor
+    return self._cursor()
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/base/base.py", line 260, in _cursor
+    self.ensure_connection()
+  File "/usr/local/lib/python3.10/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/base/base.py", line 243, in ensure_connection
+    with self.wrap_database_errors:
+  File "/usr/local/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/base/base.py", line 244, in ensure_connection
+    self.connect()
+  File "/usr/local/lib/python3.10/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/base/base.py", line 225, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/usr/local/lib/python3.10/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/mysql/base.py", line 244, in get_new_connection
+    connection = Database.connect(**conn_params)
+  File "/usr/local/lib/python3.10/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/usr/local/lib/python3.10/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+django.db.utils.OperationalError: (2003, "Can't connect to MySQL server on '127.0.0.1' ([Errno 111] Connection refused)")

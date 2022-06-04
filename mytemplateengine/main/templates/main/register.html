@@ -1,0 +1,36 @@
+{% extends 'main/base.html' %}
+
+{% block title %}{{ title }}{% endblock title %}
+
+{% block section %}
+<div class ="container px-4 py-5" id="featured-3">
+    <h2 class="fpb-2 border-bottom">Зарегистрируйся</h2>
+</div>
+{% endblock section %}
+
+{% block content %}
+<div class="album py-5 bg-light">
+    <div class="container d-flex justify-content-center">
+        <form method="post" class="d-flex flex-column w-50">
+            {% csrf_token %}
+            <h1 class="h3 mb-3 fw-normal text-center">Введите данные нового пользователя</h1>
+            <strong class="text-danger">{{ form.non_field_errors }}</strong>
+            {% for widget in form %}
+                <div class="form-floating mb-3">
+                    {{ widget }}
+                    {{ widget.label_tag }}
+                </div>
+                    {% if widget.errors %}
+                        <ol>
+                            {% for error in widget.errors %}
+                            <li><strong class="text-danger">{{ error }}</strong></li>
+                            {% endfor %}
+                        </ol>
+                    {% endif %}
+            {% endfor %}
+            <button class="w-25 btn btn-lg btn-primary" type="submit">Зарегистрироваться</button>
+        </form>
+    </div>
+
+</div>
+{% endblock content %}

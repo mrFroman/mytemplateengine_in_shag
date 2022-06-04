@@ -1,0 +1,43 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}{% endblock title %}</title>
+    <link href="{% static 'main/css/bootstrap.min.css' %}" rel="stylesheet">
+    <link href="{% static 'main/css/normalize.css' %}" rel="stylesheet">
+</head>
+<body>
+    
+<header>
+    <div class="navbar navbar-dark bg-dark shadow-sm">
+        <div class="container">
+            <div class="d-flex justify-content-start">
+                <a href="{% url 'main:index' %}" class="navbar-brand d-flex align-items-center">
+                    <strong>Шаблонизатор</strong>
+                </a>
+            </div>
+            <div class="d-flex justify-content-end">
+            {% if request.user.is_authenticated %}
+                    <a href="{% url 'main:showbase' %}" class="navbar-brand"><strong>выбрать базу клиентов</strong></a>
+                    <strong class="navbar-brand">{{ user.email }}</strong>
+                    <strong class="navbar-brand"> | </strong>
+                    <a href="{% url 'main:logout' %}" class="navbar-brand"><strong>Выйти</strong></a>
+                {% else %}
+                    <a href="{% url 'main:register' %}" class="navbar-brand"><strong>Регистрация</strong></a>
+                    <strong class="navbar-brand"> | </strong>
+                    <a href="{% url 'main:login' %}" class="navbar-brand"><strong>Войти</strong></a>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</header>
+
+<main>
+    {% block section %}{% endblock section %}
+    {% block content %}{% endblock content %}
+
+</main>
+
+</body>
+</html>
