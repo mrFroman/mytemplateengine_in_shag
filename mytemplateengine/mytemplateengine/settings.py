@@ -10,6 +10,7 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.0/ref/settings/
 """
 import os
+from re import T
 import sys
 from pathlib import Path
 
@@ -56,7 +57,7 @@ LOGGING = {
 SECRET_KEY = 'django-insecure-s8crq$5itob40*@1!8$$a8e9jvxgh3#m5^&gfi1hm43waswcfw'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = [
     '*'
@@ -90,7 +91,7 @@ ROOT_URLCONF = 'mytemplateengine.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [BASE_DIR/'mytemplateengine'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -104,6 +105,8 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'mytemplateengine.wsgi.application'
+
+# было создано для возможного перехода на аснхронный код, в дальнейшем планируется переход
 # ASGI_APPLICATION = "mytemplateengine.asgi.application"
 
 #Конфигурация Channels
@@ -153,7 +156,7 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/4.0/topics/i18n/
 
-LANGUAGE_CODE = 'ru'
+LANGUAGE_CODE = 'ru-ru'
 
 TIME_ZONE = 'Europe/Moscow'
 
@@ -165,8 +168,10 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.0/howto/static-files/
 
-STATIC_ROOT = BASE_DIR / 'static'
+STATIC_ROOT = BASE_DIR/ 'static'
 STATIC_URL = 'static/'
+# STATICFILES_DIRS = [os.path.join(BASE_DIR, "static")]
+
 
 # media files
 MEDIA_ROOT = BASE_DIR / 'media'
