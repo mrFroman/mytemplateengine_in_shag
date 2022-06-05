@@ -505,3 +505,5 @@ Traceback (most recent call last):
   File "/usr/local/lib/python3.10/site-packages/pymysql/connections.py", line 664, in connect
     raise exc
 django.db.utils.OperationalError: (2003, "Can't connect to MySQL server on '127.0.0.1' ([Errno 111] Connection refused)")
+2022-06-05 12:38:39,188 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-06-05 12:38:40,881 django.request WARNING  Not Found: /favicon.ico
